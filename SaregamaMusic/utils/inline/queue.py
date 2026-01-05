@@ -87,12 +87,12 @@ def aq_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="• ᴇʟɪsᴀ ʙᴏᴛ •",
-                url=f"https://t.me/elisamusicbot?start=_tgr_tdK1mFphZDA1"
+                text="• support •",
+                url=f"https://t.me/supp8iiiny"
             ),
             InlineKeyboardButton(
-                text="• ᴧᴅᴅ ϻє •",
-                url="https://t.me/ShriramxBot?startgroup=true"
+                text="• update •",
+                url="https://t.me/Krishbots"
             ),
         ],
     ]
