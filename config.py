@@ -23,7 +23,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
-YT_API_KEY = getenv("YT_API_KEY" , None ) ## Your API key like: xbit_f3iv-j2QmgqVfNIuSVtLO6YwfgX7iCSN Get from  https://t.me/tgmusic_apibot
+YT_API_KEY = getenv("YT_API_KEY" , None ) ## Your API key like: xbit_f3iv-j2QmgqVfNIuSVtLO6YwfgX7iN Get from  https://t.me/tgmusic_apibot
 
 # Get this value from @MissRose_Bot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", None)) 
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ixrocky/ram",
+    "https://github.com/saregamamusic/Saregama.api",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
